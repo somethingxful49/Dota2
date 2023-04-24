@@ -1,6 +1,6 @@
 # **How To Submit A Bug Report?**
 
-- Visit **https://github.com/jeffhill/Dota2**
+- Visit **https://github.com/ValveSoftware/Dota2-Gameplay**
 
 - Click on the **Issues** tab on the top left of the page.
 
